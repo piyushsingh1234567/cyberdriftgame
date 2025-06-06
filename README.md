@@ -36,6 +36,21 @@ pip install pygame
 # Run the game
 python main.py
 
+## ✨ What’s Coming Next
+We’re continuously expanding the universe of Cyber Drift! Upcoming features include:
+
+🧑‍🤝‍🧑 Local Multiplayer – Compete with friends side-by-side
+
+🌐 Online Leaderboard – Post your high score via AWS
+
+🎮 Gamepad Support – Plug in a controller for arcade feels
+
+🛠️ Track Builder – Design and race on your own custom neon circuits
+
+## 📜 License
+This project is open-source under the MIT License.
+Feel free to use, modify, and share it for learning or building upon.
+
 
 
 
